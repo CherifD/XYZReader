@@ -32,9 +32,9 @@
             <ImageView
                 android:id="@+id/imageViewCollapsing"
                 android:layout_width="match_parent"
-                android:layout_height="88dp"
+                android:layout_height="@dimen/logo_image_height"
                 android:src="@drawable/logo"
-                android:contentDescription="XYZreader logo"
+                android:contentDescription="@string/xyzreader_logo_description"
                 app:layout_collapseMode="parallax"
                 app:layout_collapseParallaxMultiplier="0.5"
                 />

@@ -8,5 +8,7 @@
     <string name="action_share">Share</string>
 
     <string name="up">Up</string>
+    <string name="article_image_description">Article image</string>
+    <string name="xyzreader_logo_description">XYZreader logo</string>
 
 </resources>
