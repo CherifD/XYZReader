@@ -63,7 +63,7 @@
             android:layout_alignParentEnd="true"/>
     </RelativeLayout>
 
-    <!--Dummy LinearLayout to satisfy the legacy code that's causing errors
+    <!--Dummy LinearLayout to satisfy the legacy code that is causing errors
       This code will be eventually removed-->
     <LinearLayout
         android:id="@+id/photo_container"
